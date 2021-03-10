@@ -1,3 +1,5 @@
+//гитхаб
+
 $('document').ready(function () {
     var form_data = new FormData();
     var max_size =  20971520000;
