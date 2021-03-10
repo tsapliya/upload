@@ -6,7 +6,7 @@ $('document').ready(function () {
     var block_list = ['php'];
     var ajax_upl;
 
-
+//fff wqe
 
     var agent = window.navigator.userAgent.toLowerCase(),
         re = /iphone|ipod|ipad|android|windows phone os|kindle|silk|bb10|blackberry|mobile/i,
