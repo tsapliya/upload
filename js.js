@@ -1,3 +1,5 @@
+//гитхаб
+
 $('document').ready(function () {
     var form_data = new FormData();
     var max_size =  20971520000;
@@ -6,7 +8,7 @@ $('document').ready(function () {
     var block_list = ['php'];
     var ajax_upl;
 
-
+//[eq]
 
     var agent = window.navigator.userAgent.toLowerCase(),
         re = /iphone|ipod|ipad|android|windows phone os|kindle|silk|bb10|blackberry|mobile/i,
